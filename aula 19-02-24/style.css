@@ -9,7 +9,7 @@ main{
 .produto {
     display: inline-block;
     width: 300px;
-    background-color: #fff;
+    background-color: #bf5555;
     border-radius: 8px;
     box-shadow: 0 4px 8px (black);
     vertical-align: middle;
