@@ -1,0 +1,43 @@
+.container{
+    display: grid;
+    border: 5px;
+    border-color: black;
+}
+header{
+    background-color: rgb(92, 92, 222);
+    border: 5px;
+    border-color: black;
+    padding: 30px;
+}
+
+main{
+    background-color: rgb(231, 176, 240);
+    padding: 50px;
+}
+aside{
+    background-color: rgb(211, 168, 59);
+    width: 100px;
+    height: 300px;
+    
+}
+section{
+    background-color: rgb(236, 237, 133);
+    padding: 50px;
+    width: 30px;
+    height: 100px;
+    
+}
+footer{
+    background-color: rgb(208, 255, 205);
+    padding: 50px;
+}
+.posicao-esquerda{
+    position: absolute;
+    top:220px;
+    left:10px;
+}
+.posicao-direita{
+    position: absolute;
+    top:220px;
+    right:10px;
+}
